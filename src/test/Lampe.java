@@ -30,7 +30,7 @@ public class Lampe
     {
 	this.estAllumee = false;
     }
-  //FIN de la classe 
+  //FIN de la classe Lampe
     
     
 }
